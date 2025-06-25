@@ -1,16 +1,27 @@
-# uni_slide
+# 📱 Simple Calculator App (Flutter)
 
-A new Flutter project.
+This is a basic calculator app built using **Flutter** and **Dart** in **Android Studio**. It allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+- 🎨 Clean and user-friendly UI with vibrant colors  
+- ⚡ Fast and responsive interface  
+- 📱 Works on Android devices
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/)  
+- [Dart](https://dart.dev/)  
+- [Android Studio](https://developer.android.com/studio)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+![Screenshot](screenshots/calculator.png)
+
+
+
+
